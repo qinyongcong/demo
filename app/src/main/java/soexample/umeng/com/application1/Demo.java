@@ -6,4 +6,6 @@ package soexample.umeng.com.application1;
  **/
 public class Demo {
     private String one;
+    //第二次提交
+    private String two;
 }
